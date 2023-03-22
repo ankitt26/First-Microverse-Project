@@ -63,8 +63,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [First-microverse-project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[First-microverse-project]** is a Html and Css based project
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -74,8 +72,6 @@ After you're finished please remove all the comments and instructions!
 3- Linters
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -89,8 +85,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 -added index.html file
 -added styles.css file
@@ -108,8 +102,6 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -157,13 +149,13 @@ coming soon
 
 ### Deployment
 
+coming soon
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Ankit**
 
@@ -176,8 +168,6 @@ coming soon
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Add Header.
 - [ ] Add footer.
